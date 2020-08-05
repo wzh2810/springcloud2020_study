@@ -9,6 +9,9 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>cloud-eureka-server7001</module>
+    <module>cloud-provider-payment8004</module>
+    <module>cloud-consumerzk-order80</module>
+    <module>cloud-customerzk-order80</module>
   </modules>
   <packaging>pom</packaging>
 

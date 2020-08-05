@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-consumerzk-order80" />
+        <module name="cloud-customerzk-order80" />
         <module name="cloud-eureka-server7001" />
+        <module name="cloud-provider-payment8004" />
       </profile>
     </annotationProcessing>
   </component>
