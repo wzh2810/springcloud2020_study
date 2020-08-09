@@ -12,6 +12,10 @@
     <module>cloud-provider-payment8004</module>
     <module>cloud-consumerzk-order80</module>
     <module>cloud-customerzk-order80</module>
+      <module>cloud-gateway-gateway9527</module>
+      <module>cloud-provider-payment8001</module>
+      <module>cloud-api-commons</module>
+      <module>cloud-provider-payment8002</module>
   </modules>
   <packaging>pom</packaging>
 
