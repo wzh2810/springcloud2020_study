@@ -28,5 +28,5 @@ eureka:
     service-url:
       register-with-eureka: true
       fetch-registry: true
-      defaultZone: http://www.eureka7001.com:7001/eureka
+      defaultZone: http://es1.wang-zhen.top:7001/eureka/,http://es2.wang-zhen.top:7002/eureka/,http://es3.wang-zhen.top:7003/eureka/
 
