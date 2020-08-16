@@ -22,6 +22,11 @@
         <module name="cloudalibaba-consumer-nacos-order83" />
         <module name="cloudalibaba-provider-payment9001" />
         <module name="cloudalibaba-provider-payment9002" />
+        <module name="cloudalibaba-sentinel-service8401" />
+        <module name="seata-account-service2003" />
+        <module name="seata-order-service2001" />
+        <module name="seata-order-service2002" />
+        <module name="seata-storage-service2002" />
       </profile>
     </annotationProcessing>
   </component>
